@@ -1,0 +1,772 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bosy",
+				"bodyParser"
+			],
+			[
+				"mtho",
+				"methodOverride"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"Produ",
+				"ProductsController"
+			],
+			[
+				"src",
+				"script	Tag"
+			],
+			[
+				"met",
+				"methodOverride"
+			],
+			[
+				"He",
+				"HEADER	Tag"
+			],
+			[
+				"arra",
+				"arraynovo"
+			],
+			[
+				"array",
+				"array1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/cursonode/vitrine/tests/products_test.js",
+			"settings":
+			{
+				"buffer_size": 2251,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/cursonode/vitrine/package.json",
+			"settings":
+			{
+				"buffer_size": 757,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/cursonode/vitrine/app.js",
+			"settings":
+			{
+				"buffer_size": 1110,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/cursonode/vitrine/controllers/ProductsController.js",
+			"settings":
+			{
+				"buffer_size": 1282,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 1596,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 611,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/cursonode/vitrine/routes/index.js",
+			"settings":
+			{
+				"buffer_size": 261,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/cursonode/vitrine/views/index.html",
+			"settings":
+			{
+				"buffer_size": 95,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/cursonode/vitrine/routes/products.js",
+			"settings":
+			{
+				"buffer_size": 395,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 334.0,
+		"last_filter": "Snippet: ",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 425.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/LearnNodeJS/ntalk",
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/LearnNodeJS/ntalk/node_modules",
+		"/C/cursonode/vitrine/routes",
+		"/C/cursonode/vitrine/src",
+		"/C/cursonode/vitrine/tests"
+	],
+	"file_history":
+	[
+		"/C/Program Files (x86)/Git/doc/git/html/git.html",
+		"/C/cursonode/vitrine/controllers/ProductsController.js",
+		"/C/cursonode/vitrine/models/ProductModel.js",
+		"/C/cursonode/vitrine/routes/products.js",
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/LearnNodeJS/ntalk/package.json",
+		"/C/cursonode/vitrine/app.js",
+		"/C/cursonode/vitrine/routes/index.js",
+		"/C/cursonode/vitrine/package.json",
+		"/C/cursonode/vitrine/tests/products_test.js",
+		"/C/cursonode/vitrine/node_modules/istanbul/lib/cli.js",
+		"/C/Users/rafael/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/cursonode/vitrine/db/mongo.js",
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/LearnNodeJS/ntalk/middlewares/autenticador.js",
+		"/C/cursonode/vitrine/index.html",
+		"/C/cursonode/vitrine/src/css/main.css",
+		"/C/cursonode/vitrine/routes.js",
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/LearnNodeJS/ntalk/app.js",
+		"/C/Users/rafael/Downloads/comprovante.html",
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/LearnNodeJS/ntalk/views/contatos/edit.ejs",
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/LearnNodeJS/ntalk/views/contatos/index.ejs",
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/LearnNodeJS/ntalk/sockets/chat.js",
+		"/C/cursonode/vitrine/src/js/main.js",
+		"/C/cursonode/vitrine/GruntFile.js",
+		"/C/Users/rafael/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/C/cursonode/vitrine/public/css/all.min.css",
+		"/C/cursonode/vitrine/src/css/normaset.css",
+		"/C/cursonode/index.html",
+		"/C/cursonode/vitrine/public/js/all.min.js",
+		"/C/cursonode/vitrine/src/js/jquery-1.11.2.js",
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/LearnNodeJS/ntalk/controllers/contatos.js",
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/LearnNodeJS/ntalk/views/contatos/show.ejs",
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/LearnNodeJS/ntalk/controllers/home.js",
+		"/C/Users/rafael/AppData/Local/Popcorn Time/src/app/vendor/videojs/dist/video-js/demo.html",
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/LearnNodeJS/ntalk/models/usuario.js",
+		"/C/Users/rafael/AppData/Local/Popcorn Time/src/app/vendor/jquery/dist/jquery.min.js",
+		"/C/test.xml",
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/LearnNodeJS/ntalk/views/error.ejs",
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/LearnNodeJS/ntalk/routes/contatos.js",
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/LearnNodeJS/ntalk/views/not-found.ejs",
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/LearnNodeJS/ntalk/views/server-error.ejs",
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/LearnNodeJS/ntalk/middlewares/error.js",
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/LearnNodeJS/ntalk/views/footer.ejs",
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/LearnNodeJS/ntalk/views/exit.ejs",
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/LearnNodeJS/ntalk/controllers/chat.js",
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/LearnNodeJS/ntalk/routes/chat.js",
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/LearnNodeJS/ntalk/views/chat/index.ejs",
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/LearnNodeJS/ntalk/views/contatos/notify_script.ejs",
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/LearnNodeJS/ntalk/views/server-error.js",
+		"/C/Users/rafael/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/LearnNodeJS/ntalk/views/header.ejs",
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/LearnNodeJS/ntalk/views/home/index.ejs",
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/LearnNodeJS/ntalk/routes/contacts.js",
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/LearnNodeJS/ntalk/node_modules/express-load/lib/express-load.js",
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/LearnNodeJS/ntalk/node_modules/express-load/index.js",
+		"/C/Users/rafael/Desktop/teste.html",
+		"/C/Users/rafael/Desktop/teste2.html",
+		"/C/Users/rafael/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/LearnNodeJS/ntalk/routes/home.js",
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/LearnNodeJS/ntalk/views/contacts/index.ejs",
+		"/C/TFS/C#/ExpertSystem.UI.WinForms/ExpertSystem.UI.WinForms.NFe/XML NFe Exemplo/35150201438784001179550050002389381100000105-procNfe.xml",
+		"/C/Users/rafael/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/EL7I5NFK/35150244699346001177550000000624091790002130-procNfe.xml",
+		"/C/TFS/C#/ExpertSystem.UI.WinForms/ExpertSystem.UI.WinForms.NFe/XML NFe Exemplo/35150244699346001177550000000624091790002130-procNfe.xml",
+		"/C/Users/rafael/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/EL7I5NFK/35150201438784001179550050002389381100000105-procNfe.xml",
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/ConstruCloud_TESTE/ConstruCloud_TESTE/obj/Debug/Model.xml",
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/LearnNodeJS/ntalk/node_modules/ejs/package.json",
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/LearnNodeJS/ntalk/routes/users.js",
+		"/C/TFS/C#/Versato.WEB/Dev/ExpertSystem.VersatoWebV1.2-RefatoracaoDez2014/app/ExpertSystem.VersatoWeb.UI/Scripts/Novo/MapaDeCotacao/MapaDeCotacaoScript.js",
+		"/C/Program Files/Sublime Text 3/teste.html",
+		"/C/TFS/C#/Suporte/packages/CommonServiceLocator.SimpleInjectorAdapter.1.5.0.12199/lib/net35/CommonServiceLocator.SimpleInjectorAdapter.xml",
+		"/C/Program Files/Sublime Text 3/enviaremail.vb",
+		"/C/Users/rafael/Desktop/Curriculo v2.html",
+		"/C/Users/rafael/Desktop/clientes.html",
+		"/C/Users/rafael/OneDrive/Pessoal/Projetos/Dummies.ProductStoreEF/Dummies.ProductStoreEF/Project_Readme.html",
+		"/C/TFS/VBA/2LinhaBase_Fonte.xml",
+		"/C/TFS/VBA/LinhaBase_Fonte.xml",
+		"/C/TFS/VBA/Reprogramacao_Fonte.xml",
+		"/C/Temp/000-000005158-S-(2014-11-12)-000020200-31141116895964000185550000000051581000051586-nfeProc (1).xml",
+		"/C/Temp/nodejs/hello_server.js",
+		"/C/Temp/000-000004986-S-(2014-10-30)-000255200-31141016895964000185550000000049861000049867-nfeProc.xml",
+		"/C/TFS/VBA/SaldoPedidos_Fonte.xml",
+		"//sbs/f/Temp/RafaelC/Resiplan XML/35140245423787000132550010000022461147690691.xml",
+		"/C/Temp/FIVE_PORTALDOCLIENTE/login-five/Co╠üpia de site/clientes.html",
+		"/C/Temp/FIVE_PORTALDOCLIENTE/portal cliente/portal cliente/index.html",
+		"/C/Users/rafael/AppData/Local/Temp/Temp1_login-five.zip/Co╠üpia de site/menu.html",
+		"//sbs/f/Temp/Demestres/FRANCHINI -  2001/35140960869336005690550010000646311437024244.xml",
+		"/C/Users/rafael/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/EL7I5NFK/Curriculo v2.html",
+		"/C/Temp/nodejs/CalculodeVP.js",
+		"/C/TFS/C#/Versato.WEB/Dev/ExpertSystem.VersatoWebV1.2/app/ExpertSystem.VersatoWeb.UI/Scripts/Novo/GerenciadorDeTarefas/dialogAnexo.core.js",
+		"/C/Temp/CTe/xml/23082013_2532_CTE_CLAUDIO_AP_MASSON.xml",
+		"/C/Users/rafael/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/EL7I5NFK/Layout_Envio_Consulta.xml",
+		"/C/Users/rafael/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/EL7I5NFK/Layout_Retorno_Consulta.xml",
+		"//sbs/f/Temp/RafaelC/MapaDeCotacaoScript.js",
+		"/C/Users/rafael/Desktop/wm.asp",
+		"/C/Temp/Ninja/criptografia.js",
+		"/C/Users/rafael/Desktop/default.asp",
+		"/C/Temp/SuporteWEB_05082014/Views/Account/Edit.cshtml",
+		"/C/Users/rafael/AppData/Local/Temp/Rar$DI01.183/PesquisarFornecedorScript.js",
+		"/C/Users/rafael/OneDrive/Expert/principal.Master",
+		"/C/Temp/nodejs/calculoDeQuantidadePorCoeficiente.core.js",
+		"/C/Temp/nodejs/app.js",
+		"/C/Temp/nodejs/hello.js",
+		"/C/Temp/nodejs/desafios/roteadordeurl.js",
+		"/C/Temp/nodejs/desafios/pn.js",
+		"/C/Temp/nodejs/desafios/adoteste.js",
+		"/C/Temp/nodejs/desafios/cbhell.js",
+		"/C/Temp/Ninja/mapninja.js",
+		"/C/Temp/nodejs/desafios/adoteste",
+		"/C/Temp/nodejs/site_pessoal.js",
+		"/C/Temp/nodejs/desafio roteador de url/roteadordeurl.js",
+		"/C/Temp/nodejs/index.htm",
+		"/C/Temp/nodejs/desafio roteador de url/erro.html",
+		"/C/Temp/nodejs/desafio roteador de url/contato.html",
+		"/C/Temp/nodejs/desafio roteador de url/artigos.html",
+		"/C/Temp/Clientes/Jafet XML/35140410928360000101550000000111531002007482-NFE.xml"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"db.collection('products')",
+			"')\n",
+			"mongojs",
+			"db",
+			"users",
+			"products",
+			"’",
+			"x",
+			"Excluo",
+			"’",
+			"\n}",
+			"carr",
+			"server",
+			"Desbloqueia",
+			"066.01.01.002",
+			"="
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			":"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/cursonode/vitrine/tests/products_test.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2251,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2251,
+								2251
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/cursonode/vitrine/package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 757,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								378,
+								378
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/cursonode/vitrine/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								457,
+								457
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/cursonode/vitrine/controllers/ProductsController.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1282,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								561,
+								561
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1596,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "package.json",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 611,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/cursonode/vitrine/routes/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								242,
+								242
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/cursonode/vitrine/views/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 95,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								95
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/cursonode/vitrine/routes/products.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 395,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 181.0
+	},
+	"pinned_build_system": "",
+	"project": "ntalk.sublime-project",
+	"replace":
+	{
+		"height": 86.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"controller",
+				"vitrine\\controllers\\ProductsController.js"
+			],
+			[
+				"produ",
+				"vitrine\\routes\\products.js"
+			],
+			[
+				"app",
+				"vitrine\\app.js"
+			],
+			[
+				"pack",
+				"vitrine\\package.json"
+			],
+			[
+				"packa",
+				"ntalk\\package.json"
+			],
+			[
+				"products",
+				"vitrine\\tests\\products_test.js"
+			],
+			[
+				"",
+				"vitrine\\tests\\products_test.js"
+			],
+			[
+				"controll",
+				"vitrine\\controllers\\ProductsController.js"
+			],
+			[
+				"producs",
+				"vitrine\\tests\\products_test.js"
+			],
+			[
+				"chat",
+				"ntalk\\sockets\\chat.js"
+			],
+			[
+				"p",
+				"vitrine\\package.json"
+			],
+			[
+				"grun",
+				"vitrine\\GruntFile.js"
+			],
+			[
+				"index",
+				"views\\contatos\\index.ejs"
+			],
+			[
+				"show",
+				"views\\contatos\\show.ejs"
+			],
+			[
+				"edit",
+				"views\\contatos\\edit.ejs"
+			],
+			[
+				"contat",
+				"controllers\\contatos.js"
+			],
+			[
+				"noti",
+				"C:\\Users\\rafael\\OneDrive\\Pessoal\\Projetos\\LearnNodeJS\\ntalk\\views\\contatos\\notify_script.ejs"
+			],
+			[
+				"socket",
+				"C:\\Users\\rafael\\OneDrive\\Pessoal\\Projetos\\LearnNodeJS\\ntalk\\sockets\\chat.js"
+			],
+			[
+				"contao",
+				"C:\\Users\\rafael\\OneDrive\\Pessoal\\Projetos\\LearnNodeJS\\ntalk\\routes\\contatos.js"
+			],
+			[
+				"inde",
+				"C:\\Users\\rafael\\OneDrive\\Pessoal\\Projetos\\LearnNodeJS\\ntalk\\views\\chat\\index.ejs"
+			],
+			[
+				"sho",
+				"C:\\Users\\rafael\\OneDrive\\Pessoal\\Projetos\\LearnNodeJS\\ntalk\\views\\contatos\\show.ejs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
