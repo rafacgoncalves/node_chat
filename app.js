@@ -14,7 +14,7 @@ var express = require('express') ,
   store = new expressSession.MemoryStore()
   mongoose = require('mongoose');
 
-global.db = mongoose.connect('mongodb://localhost/ntalk');
+global.db = mongoose.connect('mongodb://ntalk:ntalkmongolab@ds034878.mongolab.com:34878/lab');
 
 app.set('views', __dirname + '/views');
 app.set('view engine', 'ejs'); 
