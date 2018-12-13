@@ -1,0 +1,94 @@
+## Tabela de evolução de carreira
+**Notas:** 
+- *Os números entre parenteses seguidos do simbolo de adição (+) são indicativos de que os níveis são cumulativos e incluem também o escopo do nível indicado.*
+- *A ladder foi idealizada para ser a mais agnóstica de perfil possível, por isso evitamos termos específicos de desenvolvimento, infra, agilidade, etc. Preferimos focar em seu significado :-)*
+
+
+|Nível|Escopo das entregas|Desenvolvimento técnico do time|
+|:----------|:----------|:----------|
+| **Engenheiro 1** | - [Executa](#executar) [tarefas de complexidade I](#complexidade-de-projetos) definidas e detalhadas pelo time.<br>- Participa na detecção e auxilia na solução de problemas de seu time. | - [Busca o aprendizado contínuo](#busca-de-aprendizado-contínuo). | 
+| **Engenheiro 2** <br> (1+) | - [Executa](#executar) [projetos de complexidade II](#complexidade-de-projetos) definidos pelo time.<br>- [Define](#definir) [tarefas de complexidade I](#complexidade-de-projetos). | - Revisa entregas com as quais esteja familiarizado. |
+| **Engenheiro 3**  <br> (2+)| - [Executa](#executar) [projetos de complexidade III](#complexidade-de-projetos) definidos pelo time.<br>- [Define](#definir) e [executa](#executar) projetos de complexidade II.<br>- Atua ativamente na detecção e na solução dos problemas do seu time.<br>- Participa na detecção e auxilia na solução de problemas de outros times que têm relacionamento.<br>- Atua cruzando a fronteira do seu time, buscando colaboração, redução de dependência e excelência (cultura inner sourcing). | - Revisa entregas de responsabilidade do seu time ou tecnologias/práticas que conheça.<br>- [Parear](#parear) faz parte do seu dia a dia, com profissionais menos ou mais experientes. |
+| **Engenheiro 4**  <br> (3+)| - [Lidera](#liderar), [define](#definir) e [executa](#executar) [projetos de complexidade I e II](#complexidade-de-projetos).<br>- [Define](#definir) e [executa](#executar) [projetos de complexidade III](#complexidade-de-projetos).<br>- É responsável por garantir a rápida detecção e solução dos problemas do seu time, seja executando ou mobilizando o time para que o faça.<br>- Atua ativamente na detecção e na solução dos problemas nos times que têm relacionamento. | - Revisa entregas de times que possuem relacionamento.<br>- [Compartilha seu conhecimento e sua experiência com o time e/ou engenharia](#compartilhamento-de-conhecimento-para-desenvolvimento-técnico-dos-times).<br>- É uma pessoa que está sempre preocupada e disponível para evoluir profissionais com quem têm relacionamento. |
+| **Engenheiro 5**  <br> (4+)| - [Lidera](#liderar), [define](#definir) e [executa](#executar) [projetos de complexidade I, II e III](#complexidade-de-projetos).<br>- É responsável pela otimização de ineficiências dos times que tem relacionamento, seja executando ou mobilizando as pessoas para que o façam.<br>- Percebe nos problemas a oportunidade de aplicar novos conceitos, propondo soluções de forma estruturada, levando em consideração sua viabilidade e simplicidade. <br>- Participa do planejamento das [Iniciativas](#iniciativa) da empresa. | - Busca a excelência técnica de seu time.<br>- É referência técnica para seu time. |
+| **Engenheiro 6**  <br> (5+) | - Seu contexto de trabalho não limita-se apenas ao seu time, mas a toda a engenharia.<br>- É responsável pela otimização de ineficiências da engenharia, seja executando ou mobilizando as pessoas para que o façam.<br>- Evolui constantemente a visão da plataforma do futuro e [lidera](#liderar) sua construção garantindo que a arquitetura suportará os objetivos da empresa. | - [Representa a engenharia para a comunidade](#representação-da-engenharia-para-a-comunidade).<br>- É referência técnica para a engenharia. | 
+
+
+### Complexidade de Projetos
+
+|Projeto|Complexidade|
+|:----------|:----------|
+| **Complexidade 1** |Tarefa, item atômico e bem definido, onde o início, meio e fim estão claros. É inerente a [entrega](#entrega) de itens desta complexidade que contemplem o fluxo adotado de revisão de código, contenham testes automatizados, respeitem estilo de código do [projeto](#projeto), tenham o [mínimo de critério com relação a segurança e performance](#mínimo-de-critério-com-relação-a-segurança-e-performance).|
+| **Complexidade 2** | É um épico composto por várias tarefas, é geralmente uma refatoração, feature ou integração realizados dentro de um [projeto](#projeto) existente. A entrega desta complexidade condiz em melhorar o [projeto](#projeto) existente durante a feature/refatoração, documentação é adicionada, melhorias de performance são feitas, o design do código é evoluído e evidências desses exemplos são explicitadas na commit/pull request.|
+| **Complexidade 3** | É a confecção de um [projeto](#projeto) ou grande mudança que envolve outros sistemas ou [mudanças sensíveis](#mudanças-sensíveis). Nesta complexidade a régua é o que temos de melhor na nossa stack no momento, se espera documentação exemplar de fluxos, detalhes de implementação, instruções para contribuição, cuidado e mecanismos para com performance, paths conhecidos-documentados-automatizados de disaster recovery, escalabilidade evidenciada em testes de performance, simplicidade e eficiência (que vão em direção oposta ao over-engineering).|
+
+
+### Nível x Complexidade de Projetos x Atuação esperada
+
+| Nível Senioridade | Complexidade I | Complexidade II | Complexidade III | 
+|:----------:|:----------:|:----------:|:----------:|
+| Engenheiro 1 | [Executa](#executar) |  |  |  
+| Engenheiro 2 | [Define](#definir) | [Executa](#executar) |  |  
+| Engenheiro 3 | [Lidera](#liderar) | [Define](#definir) | [Executa](#executar) | 
+| Engenheiro 4 | [Lidera](#liderar) | [Lidera](#liderar) | [Define](#definir) |
+| Engenheiro 5 | [Lidera](#liderar) | [Lidera](#liderar) | [Lidera](#liderar) |
+| Engenheiro 6 | [Lidera](#liderar) | [Lidera](#liderar) | [Lidera](#liderar) |
+
+
+### Complexidade de Projetos x Perfil - Exemplos
+
+| Perfil | Complexidade 1 | Complexidade 2 | Complexidade 3 | 
+|:----------|:----------|:----------|:----------|
+| **Backend** | - Novo CRUD<br>- Correções e pequenas melhorias em sistemas existentes (Ex: Script de reativação de cliente; Construção de filtro em relatório existente; Novo endpoint em API existente; Ajustes nativos no Salesforce - campos, objetos, layout, fluxos, perfis, papeis, regras; Ajustes de carteira via script para clientes B2C online; Correções de planos no legado ZAP)<br>- Melhorias de performance menores (Ex: carregamento de imagens em lazy load, carregamento de módulos assíncronos)<br>- Testes A/B no Anuncie | - Nova RP dos sites<br>- Autenticação única entre os portais (Ex: Capitão Nascimento)<br>- Implantação de CDN<br>- Plano B do ERP MXM<br>- Integração entre sistemas internos (Ex: Projeto Proprietários, Indexação de Listings em Search, iFeed, PAAPI/Gandalf, Salesforce Lighting X Sites)<br>- Integração entre sistemas terceiros. (Ex: Salesforce/Dynamics; Salesforce/ZenDesk Vindi/Adyen; NetSuite/MXM, API’s internas/Adyen, Salesforce Lighting X ERP, Salesforce Lighting X Payments)<br>- Projeto Proposta Automática no Salesforce<br>- PI Eletrônico<br>- Novo gateway de pagamentos<br>- Projeto ZapConecta | - Novo render dos sites (Ex: Comandante Hamilton)<br>- Glue API<br>- LocationID<br>- Unificação de Listings, CRM, Feeds<br>- Gerenciador de URLs (Ex: Seleção de 94)<br>- Implantação do ERP MXM<br>- Nova plataforma de busca<br>- NewFeed<br>- Nova plataforma de leads |
+| **Plataforma** | - Seguir procedimentos pré-definidos como criar usuários no IAM, configurar policies, gerar tokens de serviço no Authnetes <br>- Automação de backups<br>- Automação de deploy<br>- Operação básica de ferramentas disponibilizadas pelo time, ex: Atuação em incidentes relacionados ao Sistema Operacional, criação da monitoração<br>- Suporte às ferramentas disponibilizadas pelo time, ex; Auxílio na adoção de ferramentas de logs, criação de deployments no kubernetes, criação de pipelines de CI/CD<br>- Auxilia em dúvidas relacionadas a padrões de tags, padrões de logs, padrões de cloud | - Construção de padrões de tags<br>- Implementação de ferramentas como serviço, ex: Logs, CI/CD, Monitoração<br>- Novas features em ferramentas criadas pelo grupo como vivactl | - Ferramentas de alta criticidade e disponibilidade como o kubernetes e Kafka<br>- Desenvolvimento de novas ferramentas complexas como o vivactl | 
+| **Data** | - Levantamento de dados, seja via SQL,  API, ou dataset em arquivo. Ex: Levantamento esporádico de dados de SEO providos pelo SEMrush via API<br>- Levantamento esporádico de dados em banco sobre a performance de um grupo de anunciantes como imobiliárias de uma rede via SQL.<br>- Jobs simples de ETL, ex: Um novo dataset simples no fluxo de carga do data warehouse via Brainwaves/Luigi. | - Análise quantitativa completa: desde da abordagem ao contexto que originou a análise, até o registro e comunicação da conclusão alcançada. Ex: Análise Tempo de resposta ao lead recebido pelo leadr<br>- Análise Qualidade de Listings vs Quantidade de Leads<br>- Simulação de novo critério de ranking baseado em eventos de busca.<br>- Modelos descritivos ou preditivos, ex: Price estimate, Churn prediction.<br>- Pipelines de agregação de dados, ex: Qualificação de Leads (apenas back-end)<br>- Refatoração e migração do Data Lake de diversos Lambdas para um projeto unificado no k8s. | - Serviços complexos de inferência, geralmente envolvem input-datasets de diferentes naturezas e múltiplos modelos, ex: Qualifier - serviço de scores<br>- Serviços complexos de coleta e/ou agregação de dados de grande volume e/ou alta disponibilidade, ex: Clickstream/Cerebro<br>- DMI via Brainwaves sobre histórico de listings<br>- Processamento e disponibilização de quantidades massivas de dados agregados em near real-time com SLA para atender aplicações, ex: Application Analytics<br>- Plataforma de armazenamento, processamento e consulta de dados de variadas granularidades para analistas e/ou cientistas de dados, ex: Consumer Analytics |
+| **Apps** | - Correção de bugs<br>- Implementação de ajuste na tela de envio de lead<br>- Novo teste A/B da tela de mapa no app Vivareal<br>- Desenvolver tela a partir de desenho do Zeplin | - Testes unitários e de integração no app Vivareal<br>- Novas implementações com utilização de novas APIs. Exemplo: Chat Vivareal<br>- Criação de uma nova busca por Mapa no App Vivareal<br>- Escolha e adição de nova biblioteca (ex. banco de dados, networking) que melhore a performance do app | - Reconstrução do ZAP iOS. Trocando todo o código antigo e legado de Objective C para Swift.<br>- Mudanças no App Vivareal trocando todo backend para as apis novas. Com CI, CD, Teste integrados para agilidade no dia a dia.<br>- Remodelamento do aplicativo para seguir uma nova tendência ainda não implementada por outras empresas no Brasil. Exemplo: Instant Apps<br>- Sugerir, analisar e implementar novos apps que impactem nas métricas da empresa e que causem um grande impacto no mercado |
+| **Frontend** | - Implementação de novo componente simples (Ex.: detalhes do imóvel, preço do imóvel)<br>- Implantação de testes A/B ou feature toggle de um componente simples (Ex.: detalhes do imóvel, preço do imóvel)<br>- Cenários de testes E2E<br>- Manutenção em componentes visuais (Ex.: alterar a exibição do pós lead, alterar o formato da descrição)<br>- Adicionar um evento no tracking de eventos | - Implementação de um componente complexo (Ex.: lead form, filtros da rp)<br>- Implantação de testes A/B ou feature toggle de um componente complexo (Ex.: lead form, filtros da rp)<br>- Implementação de uma nova página do zero (Ex.: home, ldp)<br>- Migração de uma página da stack antiga para a nova reutilizando os componentes | - Implementação de uma nova página complexa do zero (Ex.: RP)<br>- Projeto com multiplas páginas do zero definindo a stack do mesmo (Ex.: portal viva ou zap) |
+| **Segurança** | - Apresentação de segurança para novos colaboradores durante o processo de integração com RH.<br>- Administração de ferramentas disponibilizadas pelo e para o time (Ex.: regras e tarefas de Antivirus, regras pre-definidas e listas de acesso em WAF, bots de monitoração, etc.).<br>- Implementação de serviços que auxiliem na gestão de Segurança (Ex.: sistema de gestão de senhas web, geradores de senhas web, desenvolvimento de novas features de baixa complexidade em bots, etc.).<br>- Execução e report de análises de vulnerabilidades automatizados. | - Implementação de regras complexas em WAF (Ex.: Bloqueio de XSS, SQL Injection, Rate Control, information disclousure).<br>- Adicionar novos processos à automação dos scans de vulnerabilidade e de seus reports (Ex.: Integração com um novo serviço ou ferramenta de análise, disponibilização de novos indicadores).<br>- Elaboração/realização de workshops de segurança para todos os níveis de colaboradores ou implementar uma plataforma para medir o nível de maturidade de segurança (Ex.: Customizar ou implantar um quiz/game para diferentes públicos e acompanhar a evolução dos colaboradores).<br>- Condução de processos de auditoria internos e externos (Ex.: COAUD, E&Y).<br>- Desenvolvimento de novas funções ou ferramentas que auxiliem na gestão de Segurança (Ex.: desenvolver um novo bot de monitoração, integrar um serviço de code review).<br>- Interpretação de reports e apoio na correção de vulnerabilidades (Ex.: Identificar uma vulnerabilidade e notificar a equipe adequada para correção da mesma). | - Desenho e condução do processo de desenvolvimento de colaboradores voltado à segurança (Ex.: Iniciativas educacionais para toda a empresa, programa de conscientização e acompanhamento de sua evolução).<br>- Desenho e automação de processo para scan de vulnerabilidades com elaboração de relatórios, abertura de issues para equipes solucionadoras.<br>- Desenvolvimento de uma plataforma para análise de riscos e/ou vulnerabilidades em nuvem (Ex.: Desenvolvimento e implantação do Security Monkey).<br>- Interpretação de reports e correção de vulnerabilidades (Ex.: Hardening de aplicações, servidores e/ou containers). |
+
+
+### Referências
+
+#### Busca de aprendizado contínuo
+- [Pareamento](#parear) com profissionais mais experientes
+- Reviews
+- Cursos
+- Participação em eventos
+- Estudo de material por conta própria
+
+E qualquer outra atividade combinada antecipadamente entre o profissional e o gestor
+
+#### Compartilhamento de conhecimento para desenvolvimento técnico dos times
+
+- Grupo de estudo
+- Mini-curso
+- Dojo
+- Mentoria técnica
+- Blog post
+- Tech talk
+
+E qualquer outra atividade combinada antecipadamente entre o profissional e o gestor
+
+#### Representação da engenharia para a comunidade
+
+- Palestras em eventos ou meetups
+- Discussões em fóruns públicos
+- Contribuições em códigos open source
+- Blog posts em outros veículos que não o blog do grupo
+- Ajudar na organização de eventos ou meetups externos
+- Publicação de artigos, livros, podcast ou outras mídias
+
+### Glossário
+
+| Termo | Significado |
+|:----------|:----------|
+| **<a name="executar">Executar</a>** | Fazer algo do início ao fim com qualidade. |
+| **<a name="definir">Definir</a>** | Estruturar soluções eficientes. |
+| **<a name="liderar">Liderar</a>** | **Liderar é fazer acontecer até a entrega de valor.** Liderar é conduzir o planejamento, acompanhar e organizar projetos de maneira colaborativa. Aqui as responsabilidades vão além de apenas executar. Liderar NÃO é definir muito menos impor! As guildas são ferramentas que auxiliam nessa liderança. |
+| **<a name="projeto">Projeto</a>** | Projetos de natureza técnica, que já tem escopo definido e se encerram em engenharia. |
+| **<a name="iniciativa">Iniciativa</a>** | Iniciativas do negócio que serão detalhadas e priorizadas pelo time de produto e posteriormente quebrados em projetos. |
+| **<a name="entrega">Entrega</a>** | Implementação funcionando no ambiente de produção. |
+| **<a name="parear">Parear</a>** | No nosso contexto, pareamento acontece quando duas pessoas estão trabalhando no mesmo computador ou trabalhando juntas com ferramentas como o [Teletype](https://teletype.atom.io/), mas sempre no mesmo código. |
+| **Mínimo de critério com relação a segurança e performance** | Funciona sem degradar a segurança e a performance do sistema criticamente, não faz eval de input do usuário, não gera um relatório complexo sincronamente. |
+| **Mudanças sensíveis** | Rollouts de versões de APIs, migrações de bancos, grandes mudanças que tem impacto na infraestrutura e precisam ser realizadas sem downtime. |
+| **Excelência técnica** | São exemplos: <br>- Olhar para o mercado internacional e comparar o trabalho técnico do time com o estado da arte; <br>- Ter claro qual o próximo patamar técnico a ser conquistado pelo time; <br>- Estar atento a, e considerar aspectos não-técnicos que impactam no trabalho técnico do time; <br>- Receber inputs sobre detalhes ou pormenores como oportunidades de melhoria; <br>- Não se acomodar com falhas frequentes e/ou pequenas; <br>- Estar sempre aprendendo;|
